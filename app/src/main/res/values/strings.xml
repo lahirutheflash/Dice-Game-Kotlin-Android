@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="todo">TODO</string>
+    <string name="computer_player">Computer Player</string>
+    <string name="human_player">Human Player</string>
+    <string name="human_0">Human - 0</string>
+    <string name="h_10_c_5">H: 10 / C: 5</string>
+    <string name="rounds">Rounds</string>
+    <string name="computer_0">Computer - 0</string>
+    <string name="score">Score</string>
+    <string name="reroll">Reroll</string>
+    <string name="let_roll">let roll</string>
+    <string name="throww">Throw</string>
+    <string name="target_101">Target - 101</string>
+    <string name="you_won">You Won !</string>
+    <string name="you_lose">You Lose</string>
+</resources>
